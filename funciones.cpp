@@ -9,6 +9,6 @@ int sumar(int a, int b) {
 int main() {
     int x = 5, y = 3;
     int total = sumar(x, y); // llamada a la función
-    cout << "La suma es: " << total << endl;
+    cout << "La suma es: " << total << "\n";
     return 0;
 }
